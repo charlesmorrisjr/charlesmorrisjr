@@ -7,7 +7,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on [Supply Manager](https://github.com/charlesmorrisjr/SupplyManager), a supply chain management app.
+ 🔭 I’m currently working on **[Supply Manager](https://github.com/charlesmorrisjr/SupplyManager)**, a supply chain management app.
  
  🌱 I’m currently learning **TypeScript, React, and Next.js**.
 
@@ -36,6 +36,6 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,tailwind,nextjs,html,css,java" /><br>
-    <img src="https://skillicons.dev/icons?i=prisma,express,postgres,mysql,mongodb,vscode,figma,git" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,tailwind,nextjs,html,css,java,linux" /><br>
+    <img src="https://skillicons.dev/icons?i=prisma,express,postgres,mysql,mongodb,vscode,figma,git,nodejs" />
 </div>
