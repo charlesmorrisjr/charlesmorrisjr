@@ -1,11 +1,11 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=charlesmorrisjr&label=Visitors&color=0e75b6&style=flat" alt="charlesmorrisjr" /> </p>
 
-<h1 align="center">Hi, I'm Charles!</h1>
-<h3 align="center">A full-stack software engineer from the USA</h3>
+<h1 align="left">Hi, I'm Charles!</h1>
+<h3 align="left">A full-stack software engineer from the USA</h3>
 
 <br/>
 
-<div align="center">
+<div align="left">
  
  🔭 I’m currently working on **[Supply Manager](https://github.com/charlesmorrisjr/SupplyManager)**, a supply chain order filler management app.
  
@@ -15,7 +15,7 @@
  
 </div>
  
-<div align="center"> 
+<div align="left"> 
   <a href="mailto:charles.edward.morris.jr@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -33,9 +33,9 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
+<div align="left">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,react,tailwind,nextjs,html,css,java,c,linux" /><br>
     <img src="https://skillicons.dev/icons?i=prisma,express,postgres,mysql,mongodb,vscode,figma,git,nodejs,azure" />
 </div>
