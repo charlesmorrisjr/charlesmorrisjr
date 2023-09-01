@@ -13,7 +13,7 @@
 
  💬 Ask me about **How I got into coding!**
 
-![image](https://www.codewars.com/users/cmorris/badges/small)
+  ![image](https://www.codewars.com/users/cmorris/badges/small)
 
 </div>
  
