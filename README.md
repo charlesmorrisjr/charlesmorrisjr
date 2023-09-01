@@ -12,7 +12,9 @@
  🌱 I’m currently learning **TypeScript, React, Next.js, and AI**.
 
  💬 Ask me about **How I got into coding!**
- 
+
+![image](https://www.codewars.com/users/cmorris/badges/small)
+
 </div>
  
 <div align="left"> 
@@ -25,10 +27,6 @@
   <a href="https://twitter.com/c_morris_jr" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-<!--   <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a> 
--->
 </div>
 
  <hr/>
