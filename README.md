@@ -7,8 +7,6 @@
 
 <div align="left">
  
- 🔭 I’m currently working on **[Supply Manager](https://github.com/charlesmorrisjr/SupplyManager)**, a supply chain order filler management app.
- 
  🌱 I’m currently learning **TypeScript, React, Next.js, and AI**.
 
  💬 Ask me about **How I got into coding!**
