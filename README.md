@@ -7,7 +7,7 @@
 
 <div align="left">
  
- 🌱 I’m currently learning **TypeScript, React, Next.js, and AI**.
+ 🌱 I’m currently learning **TypeScript, React, and Next.js**.
 
  💬 Ask me about **How I got into coding!**
 
