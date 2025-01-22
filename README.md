@@ -7,7 +7,7 @@
 
 <div align="left">
  
- 🌱 I’m currently learning **TypeScript, React, and Next.js**.
+ 🌱 I’m currently building an app that helps music composers choose interesting chord progressions for their songs!
 
  💬 Ask me about **How I got into coding!**
 
