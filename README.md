@@ -7,7 +7,9 @@
 
 <div align="left">
  
- 🌱 I’m currently building an app that helps music composers choose interesting chord progressions for their songs!
+ 🌱 I’m currently building an app that helps music composers create interesting chord progressions for their songs.
+ 
+ 📚 I'm also learning about **cybersecurity**.
 
  💬 Ask me about **How I got into coding!**
 
