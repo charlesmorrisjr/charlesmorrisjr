@@ -7,7 +7,7 @@
 
 <div align="left">
  
- 🌱 I’m currently building an app that helps music composers create interesting chord progressions for their songs.
+ 🌱 I’m currently building a sight-reading generation app that helps beginning pianists learn how to sight-read.
  
  📚 I'm also learning about **cybersecurity**.
 
