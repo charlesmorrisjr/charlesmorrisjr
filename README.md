@@ -9,7 +9,7 @@
  
  🌱 I’m currently building a sight-reading generation app that helps beginning pianists learn how to sight-read.
  
- 📚 I'm also learning about **cybersecurity**.
+ 📚 I'm also learning about **cybersecurity** and **AI**.
 
  💬 Ask me about **How I got into coding!**
 
