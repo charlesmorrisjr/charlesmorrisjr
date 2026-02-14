@@ -1,17 +1,11 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=charlesmorrisjr&label=Visitors&color=0e75b6&style=flat" alt="charlesmorrisjr" /> </p>
 
 <h1 align="left">Hi, I'm Charles!</h1>
-<h3 align="left">A software developer from the USA</h3>
+<h3 align="left">A software engineer from the USA</h3>
 
 <br/>
 
 <div align="left">
- 
- 🌱 I’m currently building a sight-reading generation app that helps beginning pianists learn how to sight-read.
- 
- 📚 I'm also learning about **cybersecurity** and **AI**.
-
- 💬 Ask me about **How I got into coding!**
 
   ![image](https://www.codewars.com/users/cmorris/badges/small)
 
