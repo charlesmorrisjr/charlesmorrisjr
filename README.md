@@ -3,8 +3,6 @@
 <h1 align="left">Hi, I'm Charles!</h1>
 <h3 align="left">A software engineer from the USA</h3>
 
-<br/>
-
 <div align="left">
 
   ![image](https://www.codewars.com/users/cmorris/badges/small)
